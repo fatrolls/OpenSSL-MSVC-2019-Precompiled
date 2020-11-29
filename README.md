@@ -1,7 +1,7 @@
 # OpenSSL-MSVC-2019-Precompiled
 This is OpenSSL library precompiled for MSVC 2019
 
-# OpenSSL 1.1.0f Library precompiled for MSVc 2019 projects.
+# OpenSSL 1.1.0f Library precompiled for MSVC 2019 projects.
 Total Size: 162 MB unpacked, 12 MB packed 7z.
 Total folders: 19
 Total files: 3392
